@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "microbundle": "^0.15.0"
+  },
+  "dependencies": {
+    "isomorphic-unfetch": "^4.0.2"
+  }
+}
